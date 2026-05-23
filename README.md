@@ -41,17 +41,25 @@ Remove student records from the database.
 
 ## Project Structure
 ```bash
-student_crud/
-│── manage.py
-│── student_crud/
-│── students/
-│   │── migrations/
-│   │── models.py
-│   │── views.py
+Crud_Operation/
+|── .env
+│── studentapp/
+|── |── migration
+|── |── _init_.py
+|── |── admin.py
+|── |── apps.py
+|── |── models.py
+|── |── tests.py
+|── |── urls.py
+|── |── views.py
+│── studentproject/
+│   │── _init_.py/
+│   │── asgi.py
+│   │── settings.py
 │   │── urls.py
-│   │── templates/
-│   │── admin.py
-│   │── forms.py
+│   │── wsgi.py
+│ ── db.sqllite3
+│ ── manage.py
 ```
 
 ## Installation Steps
@@ -120,4 +128,34 @@ This project helps in understanding:
 - Bootstrap UI enhancement
 
 ## Author
-Developed by **Your Name**
+Developed by **Dharshan L**
+
+
+## OUTPUT Post method Data using Postman
+
+## Create
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7f2cec4-5899-40cc-ab34-a4d6994dc0eb" />
+
+---
+
+## Read
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 105641" src="https://github.com/user-attachments/assets/e44fb915-740f-4366-af77-82349448e5fd" />
+
+
+---
+
+## Update
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 105827" src="https://github.com/user-attachments/assets/3e73e83d-451c-4c6d-b9d2-42d7b095632b" />
+
+
+---
+
+## Delete
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 105854" src="https://github.com/user-attachments/assets/b0938ce8-28e1-402c-9b1a-002690113fc1" />
+
+---
+
+
+
+
