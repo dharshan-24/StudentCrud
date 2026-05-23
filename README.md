@@ -140,7 +140,7 @@ Developed by **Dharshan L**
 
 ---
 
-## OUTPUT Post method Data using Postman
+## OUTPUT Post method  using Data Stored in Postman
 
 ## Create
 
