@@ -19,12 +19,16 @@ It demonstrates the implementation of core CRUD functionality using Django frame
 ✅ Database storage using SQLite  
 ✅ Clean project structure following Django MVC architecture  
 
+---
+
 ## Technologies Used
 - **Python** – Core programming language
 - **Django** – Web framework for backend development
 - **SQLite** – Lightweight relational database
 - **HTML/CSS** *(if frontend used)*
 - **Git & GitHub** – Version control and project hosting
+
+---
 
 ## CRUD Operations
 ### Create
@@ -38,6 +42,8 @@ Modify existing student details whenever required.
 
 ### Delete
 Remove student records from the database.
+
+---
 
 ## Project Structure
 ```bash
@@ -61,6 +67,8 @@ Crud_Operation/
 │ ── db.sqllite3
 │ ── manage.py
 ```
+
+---
 
 ## Installation Steps
 
@@ -130,6 +138,7 @@ This project helps in understanding:
 ## Author
 Developed by **Dharshan L**
 
+---
 
 ## OUTPUT Post method Data using Postman
 
